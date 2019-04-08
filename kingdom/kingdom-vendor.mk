@@ -179,6 +179,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libnetmgr.so:vendor/lib/libnetmgr.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/liboemcamera.so:vendor/lib/liboemcamera.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libperipheral_client.so:vendor/lib/libperipheral_client.so \
+    vendor/lenovo/kingdom/proprietary/vendor/lib/libprotobuf-cpp-shit.so:vendor/lib/libprotobuf-cpp-shit.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libqdi.so:vendor/lib/libqdi.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libqdp.so:vendor/lib/libqdp.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libqmi_client_helper.so:vendor/lib/libqmi_client_helper.so \
