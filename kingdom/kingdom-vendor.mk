@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/bin/btnvtool:vendor/bin/btnvtool \
     vendor/lenovo/kingdom/proprietary/vendor/bin/diag_mdlog:vendor/bin/diag_mdlog \
     vendor/lenovo/kingdom/proprietary/vendor/bin/hci_qcomm_init:vendor/bin/hci_qcomm_init \
-    vendor/lenovo/kingdom/proprietary/vendor/bin/hvdcp:vendor/bin/hvdcp \
     vendor/lenovo/kingdom/proprietary/vendor/bin/irsc_util:vendor/bin/irsc_util \
     vendor/lenovo/kingdom/proprietary/vendor/bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon \
     vendor/lenovo/kingdom/proprietary/vendor/bin/mpdecision:vendor/bin/mpdecision \
@@ -67,6 +66,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config:vendor/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/TFA9890_N1C3_1_7_1.patch:vendor/etc/tfa98xx/TFA9890_N1C3_1_7_1.patch \
     vendor/lenovo/kingdom/proprietary/vendor/etc/tfa98xx/coldboot.patch:vendor/etc/tfa98xx/coldboot.patch \
+    vendor/lenovo/kingdom/proprietary/vendor/framework/ConnectivityExt.jar:vendor/framework/ConnectivityExt.jar \
     vendor/lenovo/kingdom/proprietary/vendor/framework/qcnvitems.jar:vendor/framework/qcnvitems.jar \
     vendor/lenovo/kingdom/proprietary/vendor/framework/qcrilhook.jar:vendor/framework/qcrilhook.jar \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libdrmdecrypt.so:vendor/lib/libdrmdecrypt.so \
