@@ -213,9 +213,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:vendor/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:vendor/lib/rfsa/adsp/libfastcvadsp.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
-    vendor/lenovo/kingdom/proprietary/vendor/lib/soundfx/libqcbassboost.so:vendor/lib/soundfx/libqcbassboost.so \
-    vendor/lenovo/kingdom/proprietary/vendor/lib/soundfx/libqcreverb.so:vendor/lib/soundfx/libqcreverb.so \
-    vendor/lenovo/kingdom/proprietary/vendor/lib/soundfx/libqcvirt.so:vendor/lib/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
     libwpa_qmi_eap_proxy \
