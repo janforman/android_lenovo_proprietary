@@ -139,7 +139,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libflp.so:vendor/lib/libflp.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libgeofence.so:vendor/lib/libgeofence.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libgsl.so:vendor/lib/libgsl.so \
-    vendor/lenovo/kingdom/proprietary/vendor/lib/libidl.so:vendor/lib/libidl.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libizat_core.so:vendor/lib/libizat_core.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libjpegdhw.so:vendor/lib/libjpegdhw.so \
     vendor/lenovo/kingdom/proprietary/vendor/lib/libjpegehw.so:vendor/lib/libjpegehw.so \
