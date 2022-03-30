@@ -17,6 +17,18 @@ android_app_import {
 }
 
 dex_import {
+	name: "com.qti.dpmframework",
+	owner: "lenovo/YTX703-common",
+	jars: ["proprietary/framework/com.qti.dpmframework.jar"],
+}
+
+dex_import {
+	name: "dpmapi",
+	owner: "lenovo/YTX703-common",
+	jars: ["proprietary/framework/dpmapi.jar"],
+}
+
+dex_import {
 	name: "qcrilhook",
 	owner: "lenovo/YTX703-common",
 	jars: ["proprietary/vendor/framework/qcrilhook.jar"],

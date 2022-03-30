@@ -18,8 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/vendor/firmware/widevine.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.mdt \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/etc/permissions/com.qti.dpmframework.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.qti.dpmframework.xml \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/etc/permissions/dpmapi.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/dpmapi.xml \
-    vendor/lenovo/YTX703-common/YTX703L/proprietary/framework/com.qti.dpmframework.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/com.qti.dpmframework.jar \
-    vendor/lenovo/YTX703-common/YTX703L/proprietary/framework/dpmapi.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/dpmapi.jar \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/lib64/com.qualcomm.qti.dpm.api@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/lib64/libdiag_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdiag_system.so \
     vendor/lenovo/YTX703-common/YTX703L/proprietary/lib64/libdpmctmgr.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdpmctmgr.so \
@@ -71,4 +69,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
+    com.qti.dpmframework \
+    dpmapi \
     qcrilhook
